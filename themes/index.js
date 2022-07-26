@@ -355,6 +355,13 @@ const themes = {
     bg_color: "09131B",
     border_color: "0c1a25",
   },
+  Jefer: {
+    title_color: "FFC700",
+    icon_color: "4A6090",
+    text_color: "ffffff",
+    bg_color: "0A192F",
+    border_color: "0c1a25",
+  },
   "rose_pine":{
     title_color: "9ccfd8",
     icon_color: "ebbcba",
